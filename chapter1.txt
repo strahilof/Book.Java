@@ -1,1 +1,3 @@
 Just made changes to new chapter1 file
+
+Changed in develop/new branch.
