@@ -1,1 +1,2 @@
 These are the notes for the book.
+lets assume the file was changed/updated by another user- it is not updated in your local master.
